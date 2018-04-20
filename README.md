@@ -19,3 +19,7 @@ $ go run client.go
 - [Go言語でTwitterのStreamingAPIっぽいのを作る - Qiita](https://qiita.com/kyokomi/items/cf1dd4fa85f1a99a42cc)
 - [Go言語ならたった20行ほど!!HTTP2対応サーバの作り方 - TERAKOYA](https://terakoya.site/web/golang-http2-server/)
 - [Chunked encoding を使った高速化の考察](https://www.slideshare.net/shibukawa/chunked-encoding/38)
+
+## License
+
+[CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/deed)
